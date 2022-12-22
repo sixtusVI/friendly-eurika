@@ -1,2 +1,2 @@
 # friendly-eurika
-MySecondaRepository
+My Second Repository 
