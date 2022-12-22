@@ -1,5 +1,5 @@
 # friendly-eurika
 My Second Repository 
-+ About me
++ # About me
 +
 + My name is Joser.
