@@ -1,0 +1,2 @@
+# friendly-eurika
+MySecondaRepository
